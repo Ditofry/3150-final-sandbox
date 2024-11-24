@@ -5084,6 +5084,15 @@ html[dir="rtl"] .css-8jbpru {
 	color: rgb(94, 106, 117);
 	margin-top: 16px;
 }
-#root {
-  background-color: red;
+
+.fieldsetCSS {
+  margin: 0;
+  text-align: left;
+}
+
+.legendCSS {
+  text-align: left;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 18px;
 }
